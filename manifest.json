@@ -1,6 +1,6 @@
 {
- "start_url": "index.htm",
  "background_color": "#FFFFFF",
+ "start_url": "index.htm?installed=true",
  "name": "FADISP - Tour Virtual 360°",
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
